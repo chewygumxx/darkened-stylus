@@ -1,5 +1,5 @@
 # darkened-stylus
-Styleyou, Styleme, Stylus ^-^
+Styl-you, Styl-me, Stylus ^-^
 
 A dark-blue-purple theme for the internal pages of the Stylus extension.
 
